@@ -1,0 +1,175 @@
+@font-face{
+  font-family: 'OpenSans';
+  src: url('OpenSans-Regular.ttf');  
+  font-weight: normal;
+  font-style: normal;
+  }
+
+body {
+  font-family: 'OpenSans', sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  color: #333;
+  background-color: #fff;
+}
+h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+h3 {
+  font-size: 18px;
+}
+section {
+  padding: 60px 0;
+}
+.heading {
+  padding-bottom:60px;
+}
+.text-center {
+    width: 100%;
+}
+
+/****** меню ******/
+
+.navbar-right {
+    display: block;
+}
+.navbar-collapse {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.navbar-right li a {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 30px 15px;
+  display: inline-block;
+}
+@media (min-width:768px) {
+    .navbar-header {
+        float: left
+    }
+}
+.navbar-brand {
+  padding-top: 15px;
+}
+.navbar-nav li a {
+  -webkit-transition: background-color 0.4s ease;
+  transition: background-color 0.4s ease;
+}
+.navbar-nav li a:hover, 
+.navbar-nav li a:focus {
+  text-decoration:none;  
+  background: rgba(0,0,0,.2);
+}
+.navbar-collapse:after, .navbar-collapse:before, .navbar-header:after, .navbar-header:before, .navbar:after, .navbar:before {
+    display: table;
+    content: " "
+}
+.navbar-collapse:after, .navbar-header:after, .navbar:after {
+    clear: both
+}
+@media (min-width:768px) {
+    .navbar-nav > li {
+        float: left
+    }
+    .navbar-right {
+        float: right !important;
+        margin-right: -15px
+    }
+}
+
+
+/* действия */
+.service-icon {
+  border-radius: 4px;
+  display: inline-block;
+  font-size: 36px;
+  height: 90px;
+  line-height: 90px;
+  width: 90px;  
+  -webkit-transition: background-color 0.4s ease;
+  transition: background-color 0.4s ease;
+}
+.our-services .col-sm-4 {
+  border-right:1px solid #f2f2f2;
+  border-bottom:1px solid #f2f2f2;
+  padding-bottom: 50px;
+}
+.service-icon:hover {
+  background: rgba(0, 0, 0, 0.7);
+}
+.our-services .col-sm-4:nth-child(4), 
+.our-services .col-sm-4:nth-child(5), 
+.our-services .col-sm-4:nth-child(6) {
+  border-bottom:0;
+  padding-top: 60px;
+}
+.our-services .col-sm-4:nth-child(3), 
+.our-services .col-sm-4:nth-child(6) {
+  border-right:0;
+}
+.service-info h3 {
+  margin-top: 35px;
+}
+.action-img {
+  width: 40px;
+}
+
+/*статистика*/
+
+.parallax {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  color: #fff;
+}
+#features i {
+  font-size: 48px;
+}
+#features h3 {
+  margin-top: 15px;
+  font-size: 30px;
+  margin-bottom: 7px;
+  color: #fff;
+}
+
+/* footer */
+
+#footer .footer-bottom {
+  background-color: #fff;
+  padding: 20px 0 10px;
+}
+#footer .right-div {
+    text-align: right !important;
+}
+
+
+/*forms*/
+
+div.form-row.userrow {
+    margin-bottom: 20px;
+}
+.userlabel {
+    display: inline-block;
+}
+.form-row p.text-center, .form-row label, .userlabel {
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.form-control::-webkit-input-placeholder {
+    color: #a9a9a9;
+}
+input.form-control::-moz-placeholder {
+    color: #a9a9a9;
+}
+.userrow .btn-info {
+    margin-top: 20px;
+}
+#CityCheckBox {
+    transform: scale(2);
+    margin-top: 10px;
+}

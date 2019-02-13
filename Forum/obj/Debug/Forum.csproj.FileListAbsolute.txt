@@ -1,0 +1,10 @@
+C:\Users\J\Documents\Visual Studio 2017\Projects\Forum\Forum\obj\Debug\Forum.csprojResolveAssemblyReference.cache
+C:\Users\J\Documents\Visual Studio 2017\Projects\Forum\Forum\obj\Debug\Forum.csproj.CoreCompileInputs.cache
+C:\Users\J\Documents\Visual Studio 2017\Projects\Forum\Forum\bin\Forum.dll.config
+C:\Users\J\Documents\Visual Studio 2017\Projects\Forum\Forum\bin\Forum.dll
+C:\Users\J\Documents\Visual Studio 2017\Projects\Forum\Forum\bin\Forum.pdb
+C:\Users\J\Documents\Visual Studio 2017\Projects\Forum\Forum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\J\Documents\Visual Studio 2017\Projects\Forum\Forum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\J\Documents\Visual Studio 2017\Projects\Forum\Forum\obj\Debug\Forum.dll
+C:\Users\J\Documents\Visual Studio 2017\Projects\Forum\Forum\obj\Debug\Forum.pdb
+C:\Users\J\Documents\Visual Studio 2017\Projects\Forum\Forum\obj\Debug\Forum.csproj.CopyComplete
